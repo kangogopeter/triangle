@@ -1,0 +1,38 @@
+html{
+  background-image: url(/home/peter/Documents/triangle/images/inop.jpg);
+}
+.flop{
+border-left: 10px;
+border-color: green;
+border-radius: 60px;
+}
+.car{
+  border-radius: 35px;
+}
+
+#bike{
+border-radius: 35px;
+}
+
+.cat{
+border-radius: 35px;
+}
+
+h1{
+  color: cyan;
+  font-style: italic;
+  text-align: center;
+}
+u{
+  font-size: 50px;
+}
+
+.enter{
+  color: green;
+border-radius: 57px;
+}
+h3{
+  text-align: center;
+  color: yellow;
+  font-style: italic;
+}
