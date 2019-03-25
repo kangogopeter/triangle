@@ -10,14 +10,15 @@ var pet = parseFloat(call);
   if (pet === kan && kan === chep && chep === pet && kan === pet && chep === kan && pet === chep) {
     alert("it is EQUILERTERAL !");
   }
-  else if ( kan === chep && pet !== kan || chep === kan ) {
+  else if ( kan === chep &&
+     pet !== kan || chep === kan && chep !== pet) {
     alert("it is an ISCOSELES !");
   }
   else if (pet != chep && kan !== chep || kan !== pet){
-    alert("it is a SCALENE !")
+    alert("it is a SCALENE !");
   }
  else {
- alert("not a TRIANGLE !")
+ alert("not a TRIANGLE !");
  }
   }
 peter();

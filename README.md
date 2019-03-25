@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 triangle
+=======
+# triangle
+>>>>>>> 9d19625d65eac47eaad370e03c0078f1d16c5d89
 Author
 {peterkangogo} (https://github.com/kangogopeter/triangle.git)
 Project setup instructions
